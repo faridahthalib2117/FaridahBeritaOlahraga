@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://https://github.com/faridahthalib2117/FaridahBeritaOlahraga/tree/main/public/assets/img/Home-Screenshot.png" width="1280" title="Social Card Blade UI Kit Demo Project"/>
+    <img src="https://github.com/faridahthalib2117/FaridahBeritaOlahraga/blob/main/public/assets/img/Home-Screenshot.PNG" width="1280" title="Screenshot Halaman Beranda"/>
 </p>
 
 # Project UTS-UAS Faridah
