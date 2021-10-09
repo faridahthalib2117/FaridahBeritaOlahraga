@@ -21,11 +21,11 @@ Route::get('/', function () {
     return view('index');
 });
 
-// Route::get('category', function () {
-//     return view('category');
-// });
+Route::get('category', function () {
+    return view('category');
+});
 
-// Route::get('single', function () {
-//     return view('single');
-// });
+Route::get('single', function () {
+    return view('single');
+});
 
