@@ -4,7 +4,7 @@
 
 # Project UTS-UAS Faridah
 
-Website Berita Olahraga
+Website Berita Olahraga / Sport News Website
 
 ## Requirements
 
