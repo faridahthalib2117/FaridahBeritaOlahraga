@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\singleController;
+use App\Http\Controllers\categoryController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,11 +23,13 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('category', function () {
-    return view('category');
-});
+// Route::get('category', function () {
+//     return view('category');
+// });
 
-Route::get('single', function () {
-    return view('single');
-});
+// Route::get('single', function () {
+//     return view('single');
+// });
 
+Route::get('/single',[singleController::class,'single']);
+Route::get('/category',[categoryController::class,'category']);

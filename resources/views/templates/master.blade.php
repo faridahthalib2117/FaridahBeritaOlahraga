@@ -18,7 +18,7 @@
 									</div> <!--item_img-->
 									<div class="item_title_date">
 										<div class="news_item_title">
-											<h2><a href="single.html">Seamlessly embrace B2C catalysts for change vis-a-vis economically sound communities.</a></h2>
+											<h2><a href="/single">Seamlessly embrace B2C catalysts for change vis-a-vis economically sound communities.</a></h2>
 										</div>
 										<div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
 									</div> <!--item_title_date-->
@@ -72,7 +72,7 @@
 										</div> <!--item_img-->
 										<div class="item_title_date">
 											<div class="news_item_title">
-												<h2><a href="single.html">Track Roboto the Real Tracker.</a></h2>
+												<h2><a href="/single">Track Roboto the Real Tracker.</a></h2>
 											</div>
                                             <div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
 										</div><!--item_title_date-->
@@ -93,7 +93,7 @@
 										</div> <!--item_img-->
 										<div class="item_title_date">
 											<div class="news_item_title">
-												<h2><a href="single.html">David villa change his team last year.</a></h2>
+												<h2><a href="/single">David villa change his team last year.</a></h2>
 											</div>
                                             <div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
                                         </div><!--item_title_date-->
@@ -117,7 +117,7 @@
 		<div class="row">
 		   	<div class="col-md-9">
 		   		<div class="category_layout">
-			   		<div class="item_caregory red"><h2><a href="category.html">Football</a></h2></div>
+			   		<div class="item_caregory red"><h2><a href="/category">Football</a></h2></div>
 						<div class="row">
 				   			<div class="col-md-7">
 								<div class="item feature_news_item">
@@ -198,7 +198,7 @@
 			   		</div><!--category_layout-->
 
 		   		<div class="category_layout">
-		   			<div class="item_caregory blue"><h2><a href="#">Hockey</a></h2></div>
+		   			<div class="item_caregory blue"><h2><a href="/category">Hockey</a></h2></div>
 					<div class="row">
 			   			<div class="col-md-7">
 							<div class="item active feature_news_item">
@@ -278,7 +278,7 @@
 		   		</div><!--category_layout-->
 
 		   		<div class="category_layout">
-		   			<div class="item_caregory teal"><h2><a href="#">Tennis</a></h2></div>
+		   			<div class="item_caregory teal"><h2><a href="/category">Tennis</a></h2></div>
 					<div class="row">
 			   			<div class="col-md-7">
 							<div class="item active feature_news_item">
