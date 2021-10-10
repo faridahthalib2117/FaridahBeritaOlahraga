@@ -103,9 +103,9 @@
 							<div id="navbar" class="collapse navbar-collapse sidebar-offcanvas">
 								<ul class="nav navbar-nav">
 									<li class="hidden"><a href="#page-top"></a></li>
-									<li><a class="page-scroll" href="category.html">Baseball</a></li>
-									<li><a class="page-scroll" href="category.html">Football</a></li>
-									<li><a class="page-scroll" href="category.html">Hockey</a></li>
+									<li><a class="page-scroll" href="/category">Baseball</a></li>
+									<li><a class="page-scroll" href="/category">Football</a></li>
+									<li><a class="page-scroll" href="/category">Hockey</a></li>
 									<li><a class="page-scroll" href="#section-experience">Basketball</a></li>
 									<li><a class="page-scroll" href="#section-brand">Boxing</a></li>
 									<li><a class="page-scroll" href="#">Golf</a></li>
@@ -156,7 +156,7 @@
 									</div><!--item_img--> 
 									<div class="item_title_date">
 										<div class="news_item_title">
-											<h1><a href="single.html">Leo Messi is boss of the bosses in the football world omnis iste natus error .</a></h1>
+											<h1><a href="/single">Leo Messi is boss of the bosses in the football world omnis iste natus error .</a></h1>
 										</div><!--news_item_title-->
 										<div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
 									</div><!--item_title_date-->
@@ -178,7 +178,7 @@
 									</div> <!--item_img-->
 									<div class="item_title_date">
 										<div class="news_item_title">
-											<h2><a href="single.html">Barcelona FC fix the special technique for goal machine</a></h2>
+											<h2><a href="/single">Barcelona FC fix the special technique for goal machine</a></h2>
 										</div>
 										<div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
 									</div><!--item_title_date-->
@@ -199,7 +199,7 @@
 									</div> <!--item_img-->
 									<div class="item_title_date">
 										<div class="news_item_title">
-											<h2><a href="single.html">England women fooball team ahed 1:0 Goal</a></h2>
+											<h2><a href="/single">England women fooball team ahed 1:0 Goal</a></h2>
 										</div>
 										<div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
 									</div><!--item_title_date-->
@@ -220,7 +220,7 @@
 									</div> <!--item_img-->
 									<div class="item_title_date">
 										<div class="news_item_title">
-											<h2><a href="single.html">Neymar 4th goal in europian champion league</a></h2>
+											<h2><a href="/single">Neymar 4th goal in europian champion league</a></h2>
 										</div>
 										<div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
 									</div><!--item_title_date-->
@@ -241,7 +241,7 @@
 									</div> <!--item_img-->
 									<div class="item_title_date">
 										<div class="news_item_title">
-											<h2><a href="single.html">Juventus players raise the voice for victory</a></h2>
+											<h2><a href="/single">Juventus players raise the voice for victory</a></h2>
 										</div>
 										<div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
 									</div><!--item_title_date-->
@@ -262,7 +262,7 @@
 									</div> <!--item_img-->
 									<div class="item_title_date">
 										<div class="news_item_title">
-											<h2><a href="single.html">Rooney happy for 2 goals after long time</a></h2>
+											<h2><a href="/single">Rooney happy for 2 goals after long time</a></h2>
 										</div>
 										<div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
 									</div><!--item_title_date-->
@@ -283,7 +283,7 @@
 									</div> <!--item_img-->
 									<div class="item_title_date">
 										<div class="news_item_title">
-											<h2><a href="single.html">Alexis Sanchez & Arsenal jointly champion the leage</a></h2>
+											<h2><a href="/single">Alexis Sanchez & Arsenal jointly champion the leage</a></h2>
 										</div>
 										<div class="item_meta"><a href="#">20Aug- 2015,</a> by:<a href="#">Jhonson</a></div>
 									</div><!--item_title_date-->

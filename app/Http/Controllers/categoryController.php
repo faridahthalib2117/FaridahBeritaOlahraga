@@ -1,10 +1,10 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use App\Models\Kategori;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
-class singleController extends Controller
+class categoryController extends Controller
 {
     /**
      * Display a listing of the resource.
