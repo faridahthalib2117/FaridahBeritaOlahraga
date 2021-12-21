@@ -48,8 +48,8 @@
 		    			<div class="top_ber_right">
 		    				<div class="top-menu">
 		    					<ul class="nav navbar-nav">    
-			                        <li><a href="#">Login</a></li>
-			                        <li><a href="#">Register</a></li>
+			                        <li><a href="/login">Login</a></li>
+			                        <li><a href="/register">Register</a></li>
 	                    		</ul>
 		    				</div><!--top-menu-->
 		    			</div><!--top_ber_left-->
@@ -101,15 +101,15 @@
 				<div id="navbar" class="collapse navbar-collapse sidebar-offcanvas">
 				<ul class="nav navbar-nav">
 					<li class="hidden"><a href="#page-top"></a></li>
-					<li><a class="page-scroll" href="category">Baseball</a></li>
+					<li><a class="page-scroll" href="/">Baseball</a></li>
 					<li><a class="page-scroll" href="category">Football</a></li>
 					<li><a class="page-scroll" href="category">Hockey</a></li>
-					<li><a class="page-scroll" href="category">Basketball</a></li>
+					<li><a class="page-scroll" href="/">Basketball</a></li>
 					<li><a class="page-scroll" href="category">Boxing</a></li>
 					<li><a class="page-scroll" href="category">Golf</a></li>
 					<li><a class="page-scroll" href="category">Tennis</a></li>
 					<li><a class="page-scroll" href="category">Horse racing</a></li>
-					<li><a class="page-scroll" href="category">Track & Field</a></li>
+					<li><a class="page-scroll" href="/">Track & Field</a></li>
 
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More <b class="caret"></b></a>
